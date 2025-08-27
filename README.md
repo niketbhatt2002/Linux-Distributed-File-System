@@ -1,4 +1,4 @@
-# Distributed File System (DFS) - COMP-8567 Project
+# Distributed File System (DFS) - Project
 
 **Author:** Niket Bhatt (110181232)  
 **Course:** COMP-8567 Advanced System Programming  
