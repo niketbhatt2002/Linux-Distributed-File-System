@@ -1,7 +1,7 @@
 # Distributed File System (DFS) - Project
 
 **Author:** Niket Bhatt (110181232)  
-**Course:** COMP-8567 Advanced System Programming  
+**Course:** COMP-8567 Advanced System Programming 
 **Term:** Summer 2025  
 **Due Date:** August 12, 2025, 11 PM EDT
 
