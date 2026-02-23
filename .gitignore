@@ -1,0 +1,17 @@
+# Compiled binaries
+S1
+S2
+S3
+S4
+s25client
+
+# Object files
+*.o
+
+# Temporary tar files
+*.tar
+
+# Editor files
+*.swp
+*~
+.vscode/
